@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.div1 {
+  background-color: antiquewhite;
+  margin: 40px;
+  padding: 4px;
+  display: column;
+}

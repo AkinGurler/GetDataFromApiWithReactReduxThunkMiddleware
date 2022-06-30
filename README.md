@@ -1,2 +1,2 @@
-# GetDataFromApiWithReactReduxThunkMiddleware
+# GetDataFromApiWithRedux
 Created with CodeSandbox
